@@ -146,7 +146,7 @@ team-task-manager/
 ------------------------------------------------
 5. API DOCUMENTATION
 ------------------------------------------------
-BASE URL: https://your-backend.railway.app/api
+BASE URL: team-task-manager-production-a93f.up.railway.app
 
 AUTH ENDPOINTS:
   POST /auth/signup
