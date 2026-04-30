@@ -4,7 +4,7 @@
 ================================================
 
 LIVE URL: [YOUR_RAILWAY_URL_HERE]
-GITHUB:   [YOUR_GITHUB_REPO_URL]
+GITHUB:   https://github.com/Rollins09/team-task-manager
 
 ------------------------------------------------
 TABLE OF CONTENTS
@@ -191,7 +191,7 @@ PREREQUISITES:
   - npm or yarn
 
 STEP 1: Clone the repository
-  git clone https://github.com/YOUR_USERNAME/team-task-manager.git
+  git clone https://github.com/Rollins09/team-task-manage.git
   cd team-task-manager
 
 STEP 2: Setup Backend
@@ -259,7 +259,7 @@ Step 8: Done!
 ------------------------------------------------
 BACKEND (.env):
   DATABASE_URL    = postgresql://user:pass@host:5432/dbname
-                    (auto-set by Railway when you add PostgreSQL)
+                    
   JWT_SECRET      = a-long-random-secret-string-minimum-32-chars
   PORT            = 5000 (Railway auto-sets this)
   NODE_ENV        = production
