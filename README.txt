@@ -3,7 +3,7 @@
   Full-Stack Web Application
 ================================================
 
-LIVE URL: team-task-manager-yqjwpgfx4-rollins09s-projects.vercel.app
+LIVE URL: team-task-manager-l3srokhht-rollins09s-projects.vercel.app
 GITHUB:   https://github.com/Rollins09/team-task-manager
 
 ------------------------------------------------
@@ -146,8 +146,7 @@ team-task-manager/
 ------------------------------------------------
 5. API DOCUMENTATION
 ------------------------------------------------
-BASE URL: team-task-manager-production-a93f.up.railway.app
-
+BASE URL: https://team-task-manager-qmc4.onrender.com
 AUTH ENDPOINTS:
   POST /auth/signup
     Body: { name, email, password }
