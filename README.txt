@@ -3,7 +3,7 @@
   Full-Stack Web Application
 ================================================
 
-LIVE URL: [YOUR_RAILWAY_URL_HERE]
+LIVE URL: team-task-manager-yqjwpgfx4-rollins09s-projects.vercel.app
 GITHUB:   https://github.com/Rollins09/team-task-manager
 
 ------------------------------------------------
